@@ -39,5 +39,6 @@ Este projeto consiste no desenvolvimento de uma API REST para uma plataforma de 
   4. Banco de dados H2:
      ```bash
      http://localhost:8080/h2-console
+---
 ## 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
