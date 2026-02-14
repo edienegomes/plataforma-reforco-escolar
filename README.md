@@ -29,13 +29,15 @@ Este projeto consiste no desenvolvimento de uma API REST para uma plataforma de 
 ## Passo a Passo
   1. Clone o repositório: <br>
      ````bash
-     git clone [https://github.com/edienegomes/Plataforma-Reforco-Escolar.git]  
+     git clone [https://github.com/edienegomes/plataforma-reforco-escolar.git]  
   2. Acesse a pasta do projeto:
      ```bash
-     cd Plataforma-Reforco-Escolar
+     cd plataforma-reforco-escolar
   3. A aplicação inicia na porta padrão 8080 (Documentação Swagger):
      ```bash
      http://localhost:8080/swagger-ui.html
   4. Banco de dados H2:
      ```bash
      http://localhost:8080/h2-console
+## 📄 Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
