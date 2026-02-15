@@ -19,7 +19,7 @@ Este projeto consiste no desenvolvimento de uma API REST para uma plataforma de 
 ---
 ## Funcionalidades principais
 - ***Gestão de usuários:*** Cadastro, exclusão, listagem, busca e atualização.
-- ***Sessão de Reforço:*** Criaçaõ, listagem por aluno e disciplina.
+- ***Sessão de Reforço:*** Criação, listagem por aluno e disciplina.
 - ***Relatório Geral:*** Quantidade de sessões por aluno, solicitações por professor, <br> média de desempenho, ranking das disciplinas atendidas.
 ---
 ## Requisitos
